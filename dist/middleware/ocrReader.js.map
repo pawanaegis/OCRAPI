@@ -1,0 +1,1 @@
+{"version":3,"file":"ocrReader.js","sourceRoot":"","sources":["../../src/middleware/ocrReader.ts"],"names":[],"mappings":"AAAA,OAAO,SAAS,MAAM,cAAc,CAAC;AAErC,MAAM,SAAS,GAAG,KAAK,EAAE,KAAa,EAAE,EAAE;IACtC,MAAM,MAAM,GAAG,MAAM,SAAS,CAAC,SAAS,CAAC,KAAK,EAAE,KAAK,CAAC,CAAC;IACzD,OAAO,MAAM,CAAC,IAAI,CAAC,IAAI,CAAC;AAC1B,CAAC,CAAA;AAED,eAAe,SAAS,CAAC"}
